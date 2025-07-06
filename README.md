@@ -32,3 +32,24 @@ This is a Python-based GUI application that extracts text from images using Tess
 ```bash
 git clone https://github.com/themadhavsharma/optical-character-recognition-gui.git
 cd optical-character-recognition-gui
+
+✅ Note: Also install Tesseract OCR on your system and set its path in your code:
+
+3. Run the App
+
+💡 Future Improvements
+Support drag-and-drop for images
+
+Export extracted text as .txt or .pdf
+
+Support batch processing of multiple images
+
+Add language selection for multilingual OCR
+
+Dark/light theme toggle
+
+🙌 Contributing
+MADHAV SHARMA @themadhavsharma
+
+📩 Contact
+📧 EMAIL: madhavsharma.work@gmail.com
